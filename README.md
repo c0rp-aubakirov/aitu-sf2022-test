@@ -4,4 +4,4 @@ Test repo to demonstrate git flow
 
 # Test text
 
-bla bla bla bla
+Now I'm trying to write good text
